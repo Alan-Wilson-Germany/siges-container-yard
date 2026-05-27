@@ -94,7 +94,7 @@ TGO_vigente(i) = TGO_j(i) - (t_actual - t_ingreso(i))
 ```
 siges-container-yard/
 │
-├── PLANILLA_TGO.xlsm          # Sistema completo: ingresos, salidas, vigentes, mapa de patio
+├── ETL_Formulario_TGO.xlsm          # Sistema completo: ingresos, salidas, vigentes, mapa de patio
 ├── Presentación_TGO.pdf       # Presentación del proyecto
 └── README.md
 ```
